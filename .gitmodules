@@ -1,0 +1,3 @@
+[submodule "001_glibc/external/glibc"]
+	path = 001_glibc/external/glibc
+	url = git@github.com:bminor/glibc.git
