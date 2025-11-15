@@ -4,3 +4,6 @@
 [submodule "001_glibc/external/2.17"]
 	path = 001_glibc/external/2.17
 	url = https://sourceware.org/git/glibc.git
+[submodule "005_ninja/ninja"]
+	path = 005_ninja/ninja
+	url = git@github.com:ninja-build/ninja.git
