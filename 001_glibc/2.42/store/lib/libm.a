@@ -1,0 +1,4 @@
+/* GNU ld script
+*/
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /home/user/slop/001_glibc/store/lib/libm-2.42.9000.a /home/user/slop/001_glibc/store/lib/libmvec.a )

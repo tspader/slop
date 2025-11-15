@@ -1,3 +1,6 @@
 [submodule "001_glibc/external/glibc"]
 	path = 001_glibc/external/glibc
 	url = git@github.com:bminor/glibc.git
+[submodule "001_glibc/external/2.17"]
+	path = 001_glibc/external/2.17
+	url = https://sourceware.org/git/glibc.git
