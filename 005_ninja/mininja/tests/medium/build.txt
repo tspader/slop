@@ -1,0 +1,5 @@
+# Medium test: 3 C files -> object files -> executable
+func_a.o: func_a.c | gcc -c -o func_a.o func_a.c
+func_b.o: func_b.c | gcc -c -o func_b.o func_b.c
+main.o: main.c | gcc -c -o main.o main.c
+program: main.o func_b.o func_a.o | gcc -o program main.o func_b.o func_a.o

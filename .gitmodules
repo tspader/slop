@@ -1,9 +1,9 @@
 [submodule "001_glibc/external/glibc"]
 	path = 001_glibc/external/glibc
-	url = git@github.com:bminor/glibc.git
+	url = https://github.com/bminor/glibc.git
 [submodule "001_glibc/external/2.17"]
 	path = 001_glibc/external/2.17
 	url = https://sourceware.org/git/glibc.git
 [submodule "005_ninja/ninja"]
 	path = 005_ninja/ninja
-	url = git@github.com:ninja-build/ninja.git
+	url = https://github.com/ninja-build/ninja.git
