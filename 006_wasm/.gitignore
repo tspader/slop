@@ -1,0 +1,12 @@
+# Cloned repositories - excluded due to size
+assemblyscript/
+binaryen/
+emscripten/
+wabt/
+wasi-sdk/
+wasm-bindgen/
+wasm-pack/
+wasmCloud/
+wasmer/
+wasmtime/
+wit-bindgen/
