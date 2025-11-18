@@ -7,3 +7,12 @@
 [submodule "005_ninja/ninja"]
 	path = 005_ninja/ninja
 	url = https://github.com/ninja-build/ninja.git
+[submodule "006_spn/spn"]
+	path = 006_spn/spn
+	url = git@github.com:tspader/spn.git
+[submodule "006_spn/ninja"]
+	path = 006_spn/ninja
+	url = git@github.com:ninja-build/ninja.git
+[submodule "006_spn/tinycc"]
+	path = 006_spn/tinycc
+	url = git@github.com:TinyCC/tinycc.git
